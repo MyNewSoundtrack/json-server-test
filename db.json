@@ -2,17 +2,17 @@
   "periodos": [
     {
       "id": 46,
-      "title": "3/2019",
+      "periodo": "3/2019",
       "cantidad": 22500567
     },
     {
       "id": 47,
-      "title": "4/2019",
+      "periodo": "4/2019",
       "cantidad": 23456923
     },
     {
       "id": 48,
-      "title": "5/2019",
+      "periodo": "5/2019",
       "cantidad": 33483459
     }
   ]
