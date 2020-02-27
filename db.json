@@ -15,5 +15,27 @@
       "periodo": "5/2019",
       "cantidad": 33483459
     }
+  ],
+  "categoria46": [
+    {
+      "tipo": "H",
+      "descripcion": "HABERES",
+      "valor": 1056722
+    },
+    {
+      "tipo": "D",
+      "descripcion": "DESCUENTOS VARIOS",
+      "valor": 535789
+    },
+    {
+      "tipo": "DL",
+      "descripcion": "DESCUENTO LEGAL",
+      "valor": 234518
+    },
+    {
+      "tipo": "G",
+      "descripcion": "GASTO",
+      "valor": 145890
+    }
   ]
 }
