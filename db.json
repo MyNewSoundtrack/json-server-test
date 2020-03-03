@@ -37,5 +37,23 @@
       "descripcion": "GASTO",
       "valor": 145890
     }
+  ],
+  "categoria_detH": [
+    {
+      "descripcion": "ITEM 1",
+      "valor": 24567
+    },
+    {
+      "descripcion": "ITEM 2",
+      "valor": 145679
+    },
+    {
+      "descripcion": "ITEM 3",
+      "valor": 838484
+    },
+    {
+      "descripcion": "ITEM 4",
+      "valor": 456990
+    }
   ]
 }
