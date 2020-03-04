@@ -38,6 +38,28 @@
       "valor": 145890
     }
   ],
+  "categoria47": [
+    {
+      "tipo": "H",
+      "descripcion": "HABERES",
+      "valor": 245
+    },
+    {
+      "tipo": "D",
+      "descripcion": "DESCUENTOS VARIOS",
+      "valor": 234
+    },
+    {
+      "tipo": "DL",
+      "descripcion": "DESCUENTO LEGAL",
+      "valor": 123
+    },
+    {
+      "tipo": "G",
+      "descripcion": "GASTO",
+      "valor": 976
+    }
+  ],
   "categoria_detH": [
     {
       "descripcion": "ITEM 1",
