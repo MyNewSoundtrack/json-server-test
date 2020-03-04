@@ -77,5 +77,31 @@
       "descripcion": "ITEM 4",
       "valor": 456990
     }
+  ],
+  "val_destinaciones": [
+    {
+      "anio": 2017,
+      "flete": 2456777,
+      "residencia": 3567864,
+      "zona": 2456754
+    },
+    {
+      "anio": 2018,
+      "flete": 3555789,
+      "residencia": 1567864,
+      "zona": 2000000
+    },
+    {
+      "anio": 2019,
+      "flete": 5486288,
+      "residencia": 500424,
+      "zona": 450233
+    },
+    {
+      "anio": 2020,
+      "flete": 1345619,
+      "residencia": 4562896,
+      "zona": 120343
+    }
   ]
 }
